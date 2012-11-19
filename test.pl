@@ -1,5 +1,5 @@
 #! /C/Perl/bin
 
 
-print "hello!!!!!!!\n";
-print "welcome!!!!\n";
+print "hello git!!!!!!!\n";
+print "20121120!!!!\n";
